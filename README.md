@@ -1,6 +1,6 @@
 <h1>
 <a href="https://github.com/ydavisx-jpg">
-<img align="center" width="36px" ></a><span>Davi Augusto</span>
+</a><span>Davi Augusto</span>
 </h1>
 
 ### Connect with me
