@@ -1,12 +1,14 @@
+<h1>
+<a href="https://github.com/ydavisx-jpg">
+<img align="center" width="36px" ></a><span>Davi Augusto</span>
+</h1>
 
-## Davi Augusto Freitas da silva 
-### Um pouco sobre mim, venha me conhecer!
+### Connect with me
 
 <center>
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-333333?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/davi-augusto-325393263/)
 [![Dio](https://img.shields.io/badge/Dio-333333?style=for-the-badge&logo=salesforce&logoColor=blue)](https://www.dio.me/users/contatodaviaugustof14_66706)
-[![GitHub](https://img.shields.io/badge/GITHub-333333?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/ydavisx-jpg)
 
 </center>
 
@@ -24,11 +26,12 @@
 
 >Meu primeiro contato com programação foi com um simples "Hello world" no meu primeiro curso técnico. Ainda me lembro da sensação de me sentir como nos filmes de hackers e ação. Foi nesse momento que percebi que queria seguir carreira na área de tecnologia. Ela me fascinou de uma forma que até hoje não sei explicar.
 
-### Minhas contribuições:
+### My Contributions to Open Source Projects:
 <center>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ydavisx-jpg&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 
 </center>
+
 
