@@ -26,6 +26,15 @@
 
 >Meu primeiro contato com programação foi com um simples "Hello world" no meu primeiro curso técnico. Ainda me lembro da sensação de me sentir como nos filmes de hackers e ação. Foi nesse momento que percebi que queria seguir carreira na área de tecnologia. Ela me fascinou de uma forma que até hoje não sei explicar.
 
+### My skills
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
 ### My Contributions to Open Source Projects:
 <center>
 
